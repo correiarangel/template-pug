@@ -1,0 +1,14 @@
+{
+  "name": "template-pug",
+  "version": "1.0.0",
+  "description": "Simple template pug para criação de paginas em html",
+  "main": "index.js",
+  "scripts": {
+    "build": "pug templates/*.pug --pretty --out ./build"
+  },
+  "author": "Marcos F C Rangel",
+  "license": "ISC",
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
