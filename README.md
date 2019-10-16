@@ -10,6 +10,8 @@ Edite os arquivos na pasta templates e execute o comando para compilar os arquiv
 
 Uma pasta build com os arquivos compilados será criada. Abra o arquivo build/index.html no navegador e veja o resultado.
 
+# Tutorial 
+https://medium.com/@okcomputer.use.linux/n%C3%A3o-gosta-html-ce7080e332a3
 
 ## Referencias
 https://digitalinnovation.one Curso basico NodeJs.
